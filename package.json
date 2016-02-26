@@ -1,0 +1,19 @@
+{
+  "name": "practice-interview-problems",
+  "version": "1.0.0",
+  "description": "List of problems to practice for interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmsakamoto/practice-interview-problems.git"
+  },
+  "author": "Derek Sakamoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmsakamoto/practice-interview-problems/issues"
+  },
+  "homepage": "https://github.com/dmsakamoto/practice-interview-problems#readme"
+}
